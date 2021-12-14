@@ -32,6 +32,9 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Video Link
+![Video](https://www.loom.com/share/080150269c9f4940b913bbb3db56841a)
+
 ## Home page 1
 ![Home page 1](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-10-42.png)
 

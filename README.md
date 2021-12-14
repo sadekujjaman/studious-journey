@@ -32,23 +32,36 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Home page 1
+![Home page 1](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-10-42.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Login Page 
+![Login page](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-10-57.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Home page 2
+![Home page 2](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-11-11.png)
 
-## Learn More
+## Project home page
+![Project page 1](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-11-54.png)
 
-To learn more about Next.js, take a look at the following resources:
+## Active project page
+![Active project page](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-13-42.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Archived project page
+![Project page 2](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-15-22.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## User page
+![User page](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-17-05.png)
 
-## Deploy on Vercel
+## Teacher Info
+![Teacher Info](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-30-12.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Not studetn, Not teacher
+![User](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-31-12.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Not student, Not teacher
+![User](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-31-03.png)
+
+## Side bar
+![Side bar](https://github.com/sadekujjaman/studious-journey/blob/main/images/Screenshot%20from%202021-12-14%2013-17-23.png)
+

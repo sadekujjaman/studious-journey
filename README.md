@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### prerequisite 
+1. You need to have nodejs installed on your machine.(![NodeJS](https://nodejs.org/en/download/))
+2. Clone this repository on your browser.`git clone https://github.com/sadekujjaman/studious-journey.git`
+3. To work with this project you should have .env file(not provided here). You can configure your own .env file.
+4. To configure .env file you must provide following info:
+```bash
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+NEXTAUTH_URL=http://localhost:3000
+GOOGLE_ID=
+GOOGLE_SECRET=
+
+```
 ## Getting Started
 
 First, install the dependencies for this project:
